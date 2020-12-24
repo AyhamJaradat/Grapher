@@ -4,6 +4,7 @@ A javascript implementation for Graph theory algorithms
 **The Goal:**
 
 This is an old project I did it once when I was a student learning about Graphs Theory.
+
 I build it with *Javascript*, *jquery* and ***LOVE***. 
 
 The goal of the project was to implement most of the graph theory topics we learned during a graph theory course in 2016.
@@ -42,5 +43,9 @@ You can play around with it live here: [Open the Grapher](https://ayhamjaradat.g
 1. Color the graph (Graph coloring problem)
 1. Check Izomorphism between two graphs.
 1. Find the Short Path between two nodes.
+
+## ScreenShots :
+
+![screenshot](/screenshots/grapher2.png)
 
 
