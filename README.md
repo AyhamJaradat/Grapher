@@ -17,6 +17,9 @@ We were required to develop a system with a good-enough UI that allows the user 
 The UI is not user friendly at all!.
 **I know**, at that time the main focus was on the Algorithms.
 
+**See it Live**
+You can play around with it live here: [Open the Grapher](https://ayhamjaradat.github.io/Grapher/)
+
 ## System UI Features: 
 
 1. Create a graph by drag-drop.
